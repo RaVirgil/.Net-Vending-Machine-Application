@@ -1,0 +1,14 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\InMemoryDataLayer.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\InMemoryDataLayer.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\InMemoryDataLayer.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\Business.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\bin\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.csprojAssemblyReference.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.csproj.CopyComplete
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\InMemoryDataLayer\obj\Debug\netstandard2.0\InMemoryDataLayer.pdb

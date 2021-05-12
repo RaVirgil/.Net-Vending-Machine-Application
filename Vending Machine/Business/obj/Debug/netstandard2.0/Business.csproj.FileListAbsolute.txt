@@ -1,0 +1,12 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\bin\Debug\netstandard2.0\Business.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\bin\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\bin\Debug\netstandard2.0\Business.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\bin\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\bin\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Business\obj\Debug\netstandard2.0\Business.pdb

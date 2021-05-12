@@ -1,0 +1,13 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\JsonRepositories.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\JsonRepositories.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\JsonRepositories.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\Business.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\bin\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\obj\Debug\netstandard2.0\JsonRepositories.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\obj\Debug\netstandard2.0\JsonRepositories.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\obj\Debug\netstandard2.0\JsonRepositories.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\obj\Debug\netstandard2.0\JsonRepositories.csproj.CopyComplete
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\obj\Debug\netstandard2.0\JsonRepositories.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\JsonRepositories\obj\Debug\netstandard2.0\JsonRepositories.pdb

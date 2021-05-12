@@ -1,0 +1,9 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\bin\Debug\netstandard2.0\Logger.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\bin\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\bin\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\obj\Debug\netstandard2.0\Logger.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\obj\Debug\netstandard2.0\Logger.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\obj\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\obj\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Logger\obj\Debug\netstandard2.0\Logger.csprojAssemblyReference.cache

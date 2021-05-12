@@ -1,0 +1,14 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Presentation.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Presentation.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Presentation.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Business.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\bin\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.csprojAssemblyReference.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.csproj.CopyComplete
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\Presentation\obj\Debug\netstandard2.0\Presentation.pdb

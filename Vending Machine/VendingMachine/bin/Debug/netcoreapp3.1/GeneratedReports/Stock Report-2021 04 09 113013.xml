@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Product>
+		<Name>chocolate</Name>
+		<Quantity>2</Quantity>
+	</Product>
+	<Product>
+		<Name>apple juice</Name>
+		<Quantity>5</Quantity>
+	</Product>
+	<Product>
+		<Name>chips</Name>
+		<Quantity>8</Quantity>
+	</Product>
+	<Product>
+		<Name>granola bar</Name>
+		<Quantity>7</Quantity>
+	</Product>
+	<Product>
+		<Name>nuts mix</Name>
+		<Quantity>2</Quantity>
+	</Product>
+	<Product>
+		<Name>snickers</Name>
+		<Quantity>9</Quantity>
+	</Product>
+	<Product>
+		<Name>water</Name>
+		<Quantity>10</Quantity>
+	</Product>
+	<Product>
+		<Name>m&amp;m's</Name>
+		<Quantity>6</Quantity>
+	</Product>
+	<Product>
+		<Name>test</Name>
+		<Quantity>2</Quantity>
+	</Product>
+</ArrayOfProduct>

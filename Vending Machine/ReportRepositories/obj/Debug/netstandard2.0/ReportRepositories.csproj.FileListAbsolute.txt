@@ -1,0 +1,12 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\bin\Debug\netstandard2.0\ReportRepositories.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\bin\Debug\netstandard2.0\ReportRepositories.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\bin\Debug\netstandard2.0\ReportRepositories.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\bin\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\bin\Debug\netstandard2.0\Business.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.csprojAssemblyReference.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.csproj.CopyComplete
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\ReportRepositories\obj\Debug\netstandard2.0\ReportRepositories.pdb

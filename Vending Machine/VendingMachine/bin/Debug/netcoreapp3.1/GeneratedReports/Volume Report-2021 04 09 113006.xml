@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VolumeReportItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<StartTime>2021-04-05T12:00:00</StartTime>
+	<EndTime>2021-04-10T12:00:00</EndTime>
+	<Sales>
+		<Product>
+			<Name>apple juice</Name>
+			<Quantity>1</Quantity>
+		</Product>
+	</Sales>
+</VolumeReportItem>

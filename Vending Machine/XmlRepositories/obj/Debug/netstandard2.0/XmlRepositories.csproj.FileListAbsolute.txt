@@ -1,0 +1,14 @@
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\XmlRepositories.deps.json
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\XmlRepositories.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\XmlRepositories.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\Business.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\Logger.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\Business.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\bin\Debug\netstandard2.0\Logger.pdb
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.csprojAssemblyReference.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.AssemblyInfoInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.AssemblyInfo.cs
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.csproj.CoreCompileInputs.cache
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.csproj.CopyComplete
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.dll
+E:\facultate\VSSTUDIOProiecte\C#Repo\Vending Machine\XmlRepositories\obj\Debug\netstandard2.0\XmlRepositories.pdb

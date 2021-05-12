@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "UeywziVuWPSSG8Q08EMVkTE4VTMxqOpMeuSk3KluqU6jRIPxPxlhzclqJGcEdNIfrCK3+P4gUFx+nbR0qPvkzg==",
+  "success": true,
+  "projectFilePath": "E:\\facultate\\VSSTUDIOProiecte\\C#Repo\\Vending Machine\\ReportRepositories\\ReportRepositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\virgi\\.nuget\\packages\\creditcardvalidator\\2.0.1\\creditcardvalidator.2.0.1.nupkg.sha512",
+    "C:\\Users\\virgi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\virgi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\virgi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

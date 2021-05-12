@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfSale xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Sale>
+		<Id>1</Id>
+		<TimeStamp>2021-04-07T17:04:14</TimeStamp>
+		<ProductName>apple juice</ProductName>
+		<Price>5</Price>
+		<PaymentMethod>cash</PaymentMethod>
+	</Sale>
+</ArrayOfSale>

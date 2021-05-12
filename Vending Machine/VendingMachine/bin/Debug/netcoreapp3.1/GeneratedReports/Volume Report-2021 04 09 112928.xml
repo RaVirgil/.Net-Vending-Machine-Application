@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VolumeReportItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<StartTime>2021-04-06T12:00:00</StartTime>
+	<EndTime>2021-04-07T12:00:00</EndTime>
+	<Sales />
+</VolumeReportItem>
